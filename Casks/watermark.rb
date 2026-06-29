@@ -1,6 +1,6 @@
 cask "watermark" do
-  version "1.0.1"
-  sha256 "d7fee5890db4e3f3382ef70db8ea354e0eceeb61f23b9b711f7ab7d853c45502"
+  version "1.1.0"
+  sha256 "82f1db83dc3888c5ece0b33a15a94f321d7823f9b7f0e92b5b130ff338e3076e"
 
   url "https://github.com/FilipCondac/watermark/releases/download/v#{version}/WaterMark.zip"
   name "WaterMark"
